@@ -1,6 +1,7 @@
 # Daily Coding Problem
 
-Solutions to problems sent by dailycodingproblem.com
+Source
+https://github.com/vineetjohn/daily-coding-problem
 
 ---
 
