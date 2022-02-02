@@ -1,8 +1,5 @@
 # Daily Coding Problem
 
-Source
-https://github.com/vineetjohn/daily-coding-problem
-
 ---
 
 #### Problem 1
